@@ -11,7 +11,7 @@
 body {
   background: var(--paper);
   color: var(--ink);
-  font-family: 'Bricolage Grotesque', -apple-system, system-ui, sans-serif;
+  font-family: 'Nunito', -apple-system, system-ui, sans-serif;
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
 }
